@@ -63,6 +63,7 @@ class Aqua: Animals {
         print("Name: \(name)")
         print("Weight: \(weight)")
         print("Height: \(height)")
+        print("They live in a \(habitat)")
         
     }
 }
@@ -84,6 +85,7 @@ class Land: Animals{
         description = "This is a LandBased Animal"
         habitat = .Pit
        
+       
         
         
     }
@@ -93,6 +95,7 @@ class Land: Animals{
         print("Name: \(name)")
         print("Weight: \(weight)")
         print("Height: \(height)")
+        print("They live in a \(habitat)")
         
     }
     
@@ -122,6 +125,7 @@ class Flying: Animals{
         print("Name: \(name)")
         print("Weight: \(weight)")
         print("Height: \(height)")
+        print("They live in a \(habitat)")
       
     }
    
